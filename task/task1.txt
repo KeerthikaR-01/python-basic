@@ -1,0 +1,11 @@
+Enter your name: Arun
+Enter your age: 20
+Enter your city: Madurai
+
+Student Details
+----------------
+Name : Arun
+Age  : 20
+City : Madurai
+
+
