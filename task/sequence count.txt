@@ -1,0 +1,9 @@
+-------input-----
+
+Enter a sentence: python is easy and python is powerful
+Enter word to count: python
+
+------output-----
+
+Length: 37
+python count: 2
