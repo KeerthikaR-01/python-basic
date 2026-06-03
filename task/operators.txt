@@ -1,0 +1,22 @@
+Enter Name: Arun
+Enter Age: 20
+Enter Mark 1: 80
+Enter Mark 2: 70
+
+Student Report
+--------------
+Name : Arun
+Age : 20
+Total : 150
+Average : 75.0
+
+Comparison Results
+------------------
+Age >= 18 : True
+Average >= 50 : True
+Age == 20 : True
+
+Logical Results
+---------------
+Eligible for Placement : True
+Excellent Student : False 
