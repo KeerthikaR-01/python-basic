@@ -1,0 +1,9 @@
+Enter First Name: Arun
+Enter Last Name: Kumar
+
+Student Information
+-------------------
+Full Name : Arun Kumar
+Name Length : 10
+Upper Case : ARUN KUMAR
+Lower Case : arun kumar
