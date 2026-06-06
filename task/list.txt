@@ -1,0 +1,22 @@
+Create a program that:
+
+Takes 5 grocery items from the user
+Stores them in a list
+Adds one extra item at the end
+Removes one item from the list
+Displays final grocery list
+
+Output
+-------
+
+Enter item 1: Rice
+Enter item 2: Sugar
+Enter item 3: Milk
+Enter item 4: Tea
+Enter item 5: Salt
+
+Enter one extra item to add: Oil
+Enter item to remove: Sugar
+
+Final Grocery List:
+['Rice', 'Milk', 'Tea', 'Salt', 'Oil']
