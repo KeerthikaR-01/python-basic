@@ -1,0 +1,22 @@
+Create a program that:
+
+Takes marks of 5 subjects
+Stores them in a tuple
+Finds total and average marks
+Displays highest and lowest marks
+
+Output
+---------
+
+Enter mark 1: 80
+Enter mark 2: 70
+Enter mark 3: 90
+Enter mark 4: 60
+Enter mark 5: 85
+
+Marks Tuple: (80, 70, 90, 60, 85)
+Total Marks: 385
+Average Marks: 77.0
+Highest Mark: 90
+Lowest Mark: 60
+
